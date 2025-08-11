@@ -11,7 +11,7 @@ A React + Vite application to create and display CVs dynamically.
 
 ## Live Demo
 
-[View on Netlify](cv-app-salah.netlify.app)
+[View on Netlify](https://cv-app-salah.netlify.app/)
 
 ## Installation
 
